@@ -39,8 +39,8 @@ except Exception:
 
 # ================= CONFIG =================
 # REPLACE THESE WITH REAL VALUES!
-BOT_TOKEN = os.getenv("BOT_TOKEN", "REPLACE_WITH_REAL_BOT_TOKEN_FROM_BOTFATHER")  # e.g., "123456789:ABCdef..."
-ADMIN_ID = int(os.getenv("ADMIN_ID", "REPLACE_WITH_YOUR_TELEGRAM_USER_ID"))  # e.g., 123456789
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8392495685:AAF7sOuuWP4GrGxX3EgldDm5x1UEdahQkxc")  # e.g., "123456789:ABCdef..."
+ADMIN_ID = int(os.getenv("ADMIN_ID", "8254284803"))  # e.g., 123456789
 AUTO_STATS_INTERVAL = 30  # seconds
 RESTART_DURATION = 300
 RENAME_DELAY = 0.0001
